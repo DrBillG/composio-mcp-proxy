@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "n8n": {
-      "type": "http",
+      "type": "sse",
       "url": "https://conversionworks.app.n8n.cloud/mcp/63975752-0598-4992-9422-165a84c8798c"
     }
   }
